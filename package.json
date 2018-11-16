@@ -1,0 +1,29 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "web application to show the temperature at the moment in any city of the world",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago92Rodrigues/weather-app.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "thiago rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thiago92Rodrigues/weather-app/issues"
+  },
+  "homepage": "https://github.com/Thiago92Rodrigues/weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
