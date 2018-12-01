@@ -1,2 +1,14 @@
 # weather-app
-web application to show the temperature at the moment in any city of the world
+
+**Project setup**
+```shell
+npm init
+```
+
+**Install dependencies**
+```shell
+npm install --save express
+npm install ejs --save
+npm install body-parser --save
+npm install request --save
+```
