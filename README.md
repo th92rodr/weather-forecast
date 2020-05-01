@@ -1,24 +1,29 @@
-## WEATHER WEB APP ##
+# Weather Web App
 
-##### Install `NodeJS` and `NPM` ####
+Web application to show the temperature at the moment in any city of the world.
 
-[Nodejs](https://nodejs.org/en/)
+## Running Application
 
-##### Project setup #####
+- Create an account at [Open Weather](https://openweathermap.org/api).
 
-Run `npm init` to create the project enviroment
-```shell
-npm init
+- After you are signed in, select the `API keys` tab.
+
+- From Here you can `Create a Key` on the right hand side of the page. Enter a name (anything works) and select generate. Your `API Key` will appear on the left.
+
+- Place this API Key in `apiKey.js` file.
+
+- Install the project dependencies:
+
+```sh
+npm i
 ```
 
-##### Install dependencies #####
-```shell
-npm install --save express
-npm install ejs --save
-npm install body-parser --save
-npm install request --save
+- And finally start the app:
+
+```sh
+npm start
 ```
 
-#### References ####
+## References
 
-[*Project based on*](https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b)
+- https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-openweather-a317f904897b
