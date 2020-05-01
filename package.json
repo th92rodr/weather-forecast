@@ -4,6 +4,7 @@
   "description": "web application to show the temperature at the moment in any city of the world",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
