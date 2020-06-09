@@ -1,22 +1,21 @@
 {
   "name": "weather-app",
   "version": "1.0.0",
+  "author": "Thiago Rodrigues",
+  "license": "MIT",
   "description": "web application to show the temperature at the moment in any city of the world",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Thiago92Rodrigues/weather-app.git"
+    "start": "node server.js"
   },
   "keywords": [
     "javascript",
     "nodejs"
   ],
-  "author": "thiago rodrigues",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago92Rodrigues/weather-app.git"
+  },
   "bugs": {
     "url": "https://github.com/Thiago92Rodrigues/weather-app/issues"
   },
