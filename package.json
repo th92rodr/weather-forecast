@@ -14,12 +14,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thiago92Rodrigues/weather-app.git"
+    "url": "git+https://github.com/th92rodr/weather-app.git"
   },
   "bugs": {
-    "url": "https://github.com/Thiago92Rodrigues/weather-app/issues"
+    "url": "https://github.com/th92rodr/weather-app/issues"
   },
-  "homepage": "https://github.com/Thiago92Rodrigues/weather-app#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
