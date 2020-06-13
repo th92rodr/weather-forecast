@@ -1,4 +1,4 @@
-# Weather Web App ⛅
+# Weather Forecast ⛅
 
 Web application to show the temperature at the moment in any city of the world, using the Open Weather API.
 
