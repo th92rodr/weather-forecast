@@ -1,5 +1,5 @@
 {
-  "name": "weather-app",
+  "name": "weather-forecast",
   "version": "1.0.0",
   "author": "Thiago Rodrigues",
   "license": "MIT",
@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/th92rodr/weather-app.git"
+    "url": "git+https://github.com/th92rodr/weather-forecast.git"
   },
   "bugs": {
-    "url": "https://github.com/th92rodr/weather-app/issues"
+    "url": "https://github.com/th92rodr/weather-forecast/issues"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
